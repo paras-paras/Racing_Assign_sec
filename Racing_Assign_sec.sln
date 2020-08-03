@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing_Assign_sec", "Racing_Assign_sec\Racing_Assign_sec.csproj", "{12D4792E-4C2B-41B9-9B5E-2BA5DA3D972E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing_Assign_secTests", "Racing_Assign_secTests\Racing_Assign_secTests.csproj", "{08F4B47E-F333-4DD5-A2A8-16D9502242BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D4792E-4C2B-41B9-9B5E-2BA5DA3D972E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D4792E-4C2B-41B9-9B5E-2BA5DA3D972E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D4792E-4C2B-41B9-9B5E-2BA5DA3D972E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D4792E-4C2B-41B9-9B5E-2BA5DA3D972E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F4B47E-F333-4DD5-A2A8-16D9502242BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F4B47E-F333-4DD5-A2A8-16D9502242BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F4B47E-F333-4DD5-A2A8-16D9502242BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F4B47E-F333-4DD5-A2A8-16D9502242BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA633528-BBFC-4A35-A8BF-610F2CA52CCC}
+	EndGlobalSection
+EndGlobal
